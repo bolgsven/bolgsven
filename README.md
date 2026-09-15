@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Carlos Irias
+# Hi, I'm Carlos Irias Romero
 
 ### Web Development · Digital Projects · EN–ES Services
 
@@ -28,11 +28,11 @@ Currently focused on **web development, practical digital tools, networking, and
 
 ## Featured projects
 
-- **[Carlos Portfolio](https://bolgsven.github.io/Carlos-Portfolio/)** — personal portfolio showcasing selected digital work and professional experience  
-- **[Bolgsvenia Global](https://bolgsveniaglobal.co.uk/)** — translation and digital services website  
-- **[Robert Taylor](https://bolgsven.github.io/robertaylor/)** — professional website for an independent translator  
-- **[Jellivale Grounds & Gardens](https://bolgsven.github.io/jellivale-grounds/)** — responsive website for a gardening and landscaping business  
-- **[Pantry Meal Planner](https://pantry-meal-planner-flame.vercel.app/)** — inventory-based meal planning web app  
+- **[Carlos Portfolio](https://bolgsven.github.io/Carlos-Portfolio/)** - personal portfolio showcasing selected digital work and professional experience  
+- **[Bolgsvenia Global](https://bolgsveniaglobal.co.uk/)** - translation and digital services website  
+- **[Robert Taylor](https://bolgsven.github.io/robertaylor/)** - professional website for an independent translator  
+- **[Jellivale Grounds & Gardens](https://bolgsven.github.io/jellivale-grounds/)** - responsive website for a gardening and landscaping business  
+- **[Pantry Meal Planner](https://pantry-meal-planner-flame.vercel.app/)** - inventory-based meal planning web app  
 
 ## Technologies and skills
 
